@@ -5,7 +5,7 @@ function main() {
     return;
   }
   
-  const message = '\u001b[32mLove nodemon? You can now support the project via the open collective:\u001b[22m\u001b[39m\n > \u001b[96m\u001b[1mhttps://opencollective.com/nodemon/donate\u001b[0m\n';
+  const message = '\u001b[32mLove Leaf PHP? You can now support the project via the open collective:\u001b[22m\u001b[39m\n > \u001b[96m\u001b[1mhttps://opencollective.com/leaf/donate\u001b[0m\n';
 
   try {
     const Configstore = require('configstore');
