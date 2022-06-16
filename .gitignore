@@ -19,5 +19,6 @@ coverage
 tmp
 issues/
 test/fixtures/test*
+yarn.lock
 
 .idea
