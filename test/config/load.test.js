@@ -8,7 +8,7 @@ var testUtils = require('../utils');
 var utils = require('../../lib/utils');
 var rules = require('../../lib/rules');
 var exec = require('../../lib/config/exec');
-var nodemon = require('../../lib/nodemon');
+var nodemon = require('../../lib/watcher');
 var command = require('../../lib/config/command');
 var assert = require('assert');
 

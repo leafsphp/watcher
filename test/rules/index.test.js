@@ -1,7 +1,7 @@
 'use strict';
 /*global describe:true, it: true, beforeEach: true */
 var fs = require('fs'),
-    nodemon = require('../../lib/nodemon'),
+    nodemon = require('../../lib/watcher'),
     rules = require('../../lib/rules'),
     assert = require('assert');
 
